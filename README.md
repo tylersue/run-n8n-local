@@ -1,5 +1,5 @@
 # run-n8n-local
-Run this script to run n8n locally for free. Download the necessary files.
+Run this script to run n8n locally for free. Download Docker and necessary files.
 
 To run on mac, type this in terminal:
 ./setup-n8n.sh
